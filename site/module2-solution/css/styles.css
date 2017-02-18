@@ -10,29 +10,16 @@ body {
 }
 
 h1 {
-<<<<<<< HEAD
-  margin-bottom: 50px;
-=======
   margin-bottom: 40px;
   text-align: center;
 }
 
 h2 {
   width: auto;
->>>>>>> 0deb21e65d067e6378c31d2860b16d39630fc226
   text-align: center;
 }
 
 div {
-<<<<<<< HEAD
-	background-color: #00FFFF;
-  	position: relative;
-  	top: 60px;
-}
-
-p {
-  border: 1px solid black;
-=======
   /*margin: 10px;*/
 }
 
@@ -44,39 +31,7 @@ p {
   margin-bottom: 0px;
   padding: 10px;
   color: black;
->>>>>>> 0deb21e65d067e6378c31d2860b16d39630fc226
 }
-
-div#container1 {
-  background-color: #00FFFF;
-  position: relative;
-}
-
-div#container2 {
-  background-color: #00FFFF;
-  position: relative;
-}
-
-div#container3 {
-  background-color: #00FFFF;
-  position: relative;
-}
-
-#p1 {
-  background-color: yellow;
-  position: relative;
-  top: 0px;
-  left: 0px;
-}
-#p2 {
-  background-color: #DEB887;
-  position: relative;
-}
-#p3 {
-  background-color: #5F9EA0;
-  position: relative;
-  top: 0;
-  left: 0;
 
 /* Simple Responsive Framework. */
 .row {
@@ -222,22 +177,20 @@ div#container3 {
 .section {
   background-color: grey;
   margin: 0px;
-  padding: 0px;
+  padding: 1px;
   border: 2px solid black;
 }
 
 .chicken {
   background-color: pink;
-  border-left: 2px solid black;
-  border-bottom: 1px solid black;
+  border: 1px solid black;
   float: right;
   margin: 0px;
 }
 
 .beef {
   background-color: red;
-  border-left: 2px solid black;
-  border-bottom: 1px solid black;
+  border: 1px solid black;
   float: right;
   margin: 0px;
   color: white;
@@ -245,8 +198,7 @@ div#container3 {
 
 .sushi {
   background-color: yellow;
-  border-left: 2px solid black;
-  border-bottom: 1px solid black;
+  border: 1px solid black;
   float: right;
   margin: 0px;
 }
