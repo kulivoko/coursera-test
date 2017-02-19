@@ -62,3 +62,12 @@ body {
 .navbar-default .navbar-toggle .icon-bar {
   background-color: black;
 }
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  border-color: #DCDCDC;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle:focus .icon-bar:focus {
+  background-color: #DCDCDC;
+}
