@@ -21,7 +21,7 @@ body {
 .navbar-collapse {
   padding: 0;
 }
-.menu-separator {
+.horizontal-line {
   margin:0;
   border-color: black;
 }
