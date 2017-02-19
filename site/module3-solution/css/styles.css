@@ -50,6 +50,11 @@ body {
   margin-bottom: 0;
   line-height: .75;
 }
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: black;
+    background-color: transparent;
+}
 .navbar-header{
   background-color: grey;
 }
