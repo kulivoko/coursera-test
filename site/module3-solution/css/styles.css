@@ -132,7 +132,7 @@ h1 {
     border: 1px black;
   }
   #nav-list a:hover {
-    background: #DCDCDC;
+    background: #DCDCDC;  
   }
   #nav-list a span {
     font-size: 1.8em;
@@ -143,14 +143,8 @@ h1 {
   .navbar-nav {
     margin: 0px;
   }
-
   .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 2px solid white;
-  }
-
-  .navbar-header button.navbar-toggle {
-    /*clear: both;*/
-    /*margin-top: -45px;*/
-  }
+    border: 2px solid black;
+  }  
 }
 
