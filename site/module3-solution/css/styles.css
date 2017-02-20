@@ -26,6 +26,11 @@ body {
   border-color: black;
 }
 
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
 .menu-container > div {
   background-color: grey;
   margin: 10px;
