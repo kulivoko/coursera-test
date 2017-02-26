@@ -26,6 +26,11 @@ body {
   border-color: black;
 }
 
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+  color: white;
+  background-color: transparent;
+}
+
 .menu-container > div {
   background-color: grey;
   margin: 10px;
@@ -52,8 +57,8 @@ body {
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
-    color: black;
-    background-color: transparent;
+  color: black;
+  background-color: transparent;
 }
 .navbar-header{
   background-color: grey;
@@ -61,7 +66,7 @@ body {
 
 .navbar-default .navbar-nav>li>a {
   color: #000000;
-    background: #EEEEEE;
+  background: #EEEEEE;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
